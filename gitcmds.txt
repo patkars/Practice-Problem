@@ -1,0 +1,5 @@
+git clones <repo_name> => Download  or update repository
+git status => status of repo
+git add . or filename => add files to commit
+git commmit "message"  => Commit message
+git push => Push code online
